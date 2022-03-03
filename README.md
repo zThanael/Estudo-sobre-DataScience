@@ -8,8 +8,8 @@
 
 - ### SQL:
 Curso básico/intermediário sobre SQL com foco em consultas.
-> ####  [Acesse]()
+> ####  [Acesse](https://github.com/zThanael/Estudo-sobre-DataScience/tree/main/SQL)
 - ### Pandas:
 Curso inicial de tratamento e analise de dados com pandas. Dentro do curso foi realizado uma análise de dados sobre alugueis de residencias.
-> ####  [Acesse]()
+> ####  [Acesse](https://github.com/zThanael/Estudo-sobre-DataScience/tree/main/Pandas)
 
