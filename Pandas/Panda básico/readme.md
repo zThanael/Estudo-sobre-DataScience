@@ -85,3 +85,4 @@ Para realizar a remoção destes outliers precisamos reproduzir a seguinte formu
 
 - ## Observações
 Gostaria de lembra-los que para entender melhor é necessário visualizar o  [notebook](https://github.com/zThanael/Estudo-sobre-DataScience/blob/main/Pandas/Panda%20b%C3%A1sico/Resumo.ipynb) onde todos os codigos são mostrados, assim facilitando o entendimento do conteúdo.
+- Também existe um arquivo markdown com as anotações realizadas durante o curso, pode ser algo que venha a ajudar, para isso acesse as [Anotações](https://github.com/zThanael/Estudo-sobre-DataScience/blob/main/Pandas/Panda%20b%C3%A1sico/anota%C3%A7%C3%B5es.md)
