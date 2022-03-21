@@ -4,8 +4,12 @@
 
 # Pandas: Formatos diferentes de entrada e saídas.
 
-Repositório para estudar e mostrar alguns dos principais dados com os quais o pandas pode trabalhar, como por exemplo:
+#### Notebook
+- Caso deseje visualizar os codigos e entender mais sobre este assunto veja o notebook onde contem os códigos.
 
+> Acesse o [notebook](https://github.com/zThanael/Estudo-sobre-DataScience/blob/main/Pandas/Pandas%20Input%20Output/Importando%20e%20exportando%20dados.ipynb)
+
+Repositório para estudar e mostrar alguns dos principais dados com os quais o pandas pode trabalhar, como por exemplo:
 
 - **csv**
 - **excel**
