@@ -7,7 +7,7 @@
 #### Notebook
 - Caso deseje visualizar os codigos e entender mais sobre este assunto veja o notebook onde contem os códigos.
 
-> Acesse o [notebook](https://github.com/zThanael/Estudo-sobre-DataScience/blob/main/Pandas/Panda%20b%C3%A1sico/Resumo.ipynb)
+> Acesse o [notebook](https://github.com/zThanael/Estudo-sobre-DataScience/blob/main/Pandas/Pandas%20Avan%C3%A7ado/Notebook.ipynb)
 
 Este tópico de tratando e analisando dados é resultado do acompanhamento do curso ``Python Pandas: Técnicas avançadas`` da **Alura**
 
@@ -24,7 +24,7 @@ No notebook foi demonstrado todo o processo para realizar um tratamento dos dado
 - ### Importação e ajuste dos dados.
 No notebook precisamos utilizar dados provindos de um arquivo JSON e de um arquivo excel, porém ambos os arquivos tem suas particularidades, no excel por exemplo queremos uma planilha em especifico, para isso precisamos ajustar o script para pegar somente a parte desejada.
 No arquivo JSON ele vem com uma visualização estranha, para ajustar precisamos utilizar o ``json_normalize()``
-> Para entender mais sobre isso acesse o [Notebook]() ou caso queria saber mais sobre importação de arquivos acesse a pasta [Pandas Input Output]()
+> Para entender mais sobre isso acesse o [Notebook](https://github.com/zThanael/Estudo-sobre-DataScience/blob/main/Pandas/Pandas%20Avan%C3%A7ado/Notebook.ipynb) ou caso queria saber mais sobre importação de arquivos acesse a pasta [Pandas Input Output](https://github.com/zThanael/Estudo-sobre-DataScience/tree/main/Pandas/Pandas%20Input%20Output)
 
 - ### Manipulação de dados.
 Durante esta etapa, visualizamos como tratar os dados do DataFrame, como por exemplo, a manipulação de strings e arrays, tornando póssivel extrair arrays, converter eles, e até mesmo criar colunas no DataFrame com eles, também foi visto brevemente sobre as RegEx
@@ -38,4 +38,4 @@ Para realizar a junção de DataFrames temos diversos meios, mas o mais interess
 Para melhorar a visualização de um DataFrame podemos utilizar o metodo ``style``, onde podemos passar mascaras para os valores, formatação de texto, como deixar determinados valores em negritos ou até mesmo mudar sua cor e propriedades.
 
 - ## Observações
-Gostaria de lembra-los que para entender melhor é necessário visualizar o  [notebook]() onde todos os codigos são mostrados, assim facilitando o entendimento do conteúdo.
+Gostaria de lembra-los que para entender melhor é necessário visualizar o  [notebook](https://github.com/zThanael/Estudo-sobre-DataScience/blob/main/Pandas/Pandas%20Avan%C3%A7ado/Notebook.ipynb) onde todos os codigos são mostrados, assim facilitando o entendimento do conteúdo.
